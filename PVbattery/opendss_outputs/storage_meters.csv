@@ -1,0 +1,10 @@
+Year, LDCurve, Hour, Storage, "kWh", "kvarh", "Max kW", "Max kVA", "Hours", "Price($)"
+0, , 0, "BATTERY1"    ,          0,          0,          0,          0,          0,          0
+0, , 0, "BATTERY2"    ,          0,          0,          0,          0,          0,          0
+0, , 0, "BATTERY3"    ,          0,          0,          0,          0,          0,          0
+0, , 0, "BATTERY1"    ,          0,          0,          0,          0,          0,          0
+0, , 0, "BATTERY2"    ,          0,          0,          0,          0,          0,          0
+0, , 0, "BATTERY3"    ,          0,          0,          0,          0,          0,          0
+0, , 0, "BATTERY1"    ,          0,          0,          0,          0,          0,          0
+0, , 0, "BATTERY2"    ,          0,          0,          0,          0,          0,          0
+0, , 0, "BATTERY3"    ,          0,          0,          0,          0,          0,          0

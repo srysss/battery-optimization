@@ -1,0 +1,10 @@
+clear
+
+compile IEEE123Master.dss
+
+set mode=snapshot
+solve
+
+Show Voltage LN Nodes
+FormEdit "Line.L1"
+Export Voltages
